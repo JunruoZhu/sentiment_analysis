@@ -29,7 +29,7 @@ NOTE: This project uses CPU to compute the sentiment scores of articles. Please 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JunruoZhu/cryptocurrency-sentiment-analysis.git
+    git clone https://github.com/JunruoZhu/sentiment_analysis.git
     cd sentiment_analysis
     ```
 2. Install Poetry (if you haven't already):
