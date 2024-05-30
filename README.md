@@ -23,7 +23,7 @@ the period of maximum price change (price collapse).
 2. Price vs. Positive Sentiment
 3. Price vs. Daily Article Number reporting the coin
 
-NOTE: This project uses CPU to compute the sentiment scores of articles. Please note that it will take you a lot of time.
+
 
 ## Installation
 
@@ -46,6 +46,7 @@ NOTE: This project uses CPU to compute the sentiment scores of articles. Please 
     ```bash
     poetry run python ./sentiment_analysis/main.py
     ```
+__NOTE__: This project uses CPU to compute the sentiment scores of articles. Please note that it will take you a lot of time.
 
 2. The generated graphs will be saved in the `results` folder. The statistical test results
 will be shown in the terminal.
